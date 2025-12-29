@@ -25,3 +25,9 @@ Bu projede İstanbul Airbnb veri seti kullanılarak temel Keşifçi Veri Analizi
 ## 🚀 Nasıl Çalıştırılır?
 ```bash
 python airbnb.py
+
+## Veri Seti 
+Veri dosyası (`listings.csv`) dosya boyutu nedeniyle repoya eklenmemiştir.
+
+Veri, Airbnb açık veri kaynaklarından temin edilmiştir.
+
