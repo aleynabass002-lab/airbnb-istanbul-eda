@@ -1,6 +1,5 @@
 # Airbnb Istanbul EDA
 
-Bu projede İstanbul Airbnb veri seti kullanılarak temel Keşifçi Veri Analizi (EDA) yapılmıştır.
 
 ## 📌 Proje Amacı
 - Veri setinin genel yapısını incelemek
@@ -16,18 +15,6 @@ Bu projede İstanbul Airbnb veri seti kullanılarak temel Keşifçi Veri Analizi
 ## 📂 Dosya Yapısı
 - `airbnb.py` : EDA analizlerinin bulunduğu Python dosyası
 
-## 📊 Yapılan Analizler
-- Veri seti genel inceleme
-- Eksik değer analizi
-- Temel istatistikler
-- Görselleştirmeler
-
-## 🚀 Nasıl Çalıştırılır?
-```bash
-python airbnb.py
-
-## Veri Seti 
-Veri dosyası (`listings.csv`) dosya boyutu nedeniyle repoya eklenmemiştir.
 
 Veri, Airbnb açık veri kaynaklarından temin edilmiştir.
 
