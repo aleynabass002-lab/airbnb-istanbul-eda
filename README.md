@@ -4,7 +4,6 @@
 ## 📌 Proje Amacı
 - Veri setinin genel yapısını incelemek
 - Eksik verileri ve aykırı değerleri analiz etmek
-- Fiyat dağılımı ve temel değişkenler hakkında içgörü kazanmak
 
 ## 🛠 Kullanılan Teknolojiler
 - Python
